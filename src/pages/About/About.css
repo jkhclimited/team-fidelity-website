@@ -1,0 +1,62 @@
+p {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    text-align: left;
+}
+
+/* max-width 479px done */
+@media (max-width: 479px) {
+    .staffMember {
+        clear: left;
+        height: 100%;
+        margin: 10px;
+    }
+    
+    .aboutPage > div img {
+        float: left;
+        width: 200px;
+        height: 200px;
+        object-fit: contain;
+        margin-right: 10px;
+    }
+}
+
+/* min-width: 480px done */
+@media (min-width: 480px){
+    .staffMember {
+        clear: left;
+        margin: 10px;
+        min-height: 300px;
+    }
+    
+    .aboutPage > div img {
+        float: left;
+        width: 250px;
+        height: 250px;
+        object-fit: contain;
+        margin-right: 10px;
+    }
+}
+
+/* min-width 768px done */
+@media (min-width: 768px){
+    .staffMember {
+        margin: 20px;
+        min-height: 350px;
+    }
+    
+    .aboutPage > div img {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+/* min-width 1910px done (this is two profiles on the same line now) */
+@media (min-width: 1910px) {
+    .staffMember {
+        display: inline-block;
+        width: 45%;
+        vertical-align: middle;
+    }
+}
+

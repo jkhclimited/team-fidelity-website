@@ -1,0 +1,30 @@
+:root {
+    --main-bg: #4a4e4d;
+    --top-menu-bg: #011987;
+    --sub-menu-bg: #3da4ab;
+    --hover-bg: #3da4ab;
+}
+
+.header-bar {
+    background-color: var(--top-menu-bg);
+    color: white;
+    display: flex;
+    align-items: center;
+}
+  
+.header-bar a:hover {
+    background-color: var(--hover-bg);
+    color: white;
+}
+  
+.header-bar a {
+    line-height: 3rem;
+    padding: 0 1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+  
+.header-bar a:last-child {
+    margin-left: auto;
+}
