@@ -1,4 +1,8 @@
-p {
+.aboutPage {
+    color: rgb(235, 235, 235);
+}
+
+.staffText {
     margin-block-start: 0px;
     margin-block-end: 0px;
     text-align: left;

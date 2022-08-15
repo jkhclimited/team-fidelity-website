@@ -1,0 +1,33 @@
+.contactLinks {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    text-align: left;
+    font-size: 25px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.contactText {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.contactPage {
+    color: rgb(235, 235, 235);
+}
+
+.icons {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.aContactLink:link, .aContactLink:visited, .aContactLink:hover {
+    color: rgb(235, 235, 235);
+    text-decoration: none;
+}
+
+.aContactLink:active {
+    color: rgb(175, 175, 175);
+    text-decoration: none;
+}
