@@ -34,7 +34,7 @@ class Competitive extends Component {
                     </div><br />
                     <h3>Academy Roster</h3>
                     <div className="academyRoster">
-                        <p className="academyRole">Coach:</p><p className="academyPlayer">Bryan "StxrmZ" Placeholder</p><br />
+                        <p className="academyRole">Coach:</p><p className="academyPlayer">Bryan "StxrmZ" Almonte-Mancebo</p><br />
                         <p className="academyText">The Academy roster is expected to change on a regular basis, thus we will not be disclosing the composition at this time.</p>
                     </div>
                 </div>                

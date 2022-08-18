@@ -45,7 +45,7 @@ class About extends Component {
                 </div>
 
                 <div className="aboutSpidey staffMember">
-                    <h3>Head of Esports - Bri "spidey" Placeholder</h3>
+                    <h3>Head of Esports - Brianna "spidey" Garcia</h3>
                     <img className="imageSpidey" alt="spidey" src={imgSpidey} />
                     <p className="textSpidey staffText">Hey Guys!! My name is spidey or Bri either one is fine! I’m 20 and I’m a full time college student and full time gamer 😈😤. My pronouns are she/her and I’m Colombian and Afghan. I live in Northern Cali right now, but eventually I want to move to the east coast! I’m really easy to talk to and I try to make people smile when I can. Sooo if anyone ever needs to talk about life (outside of fidelity) you can talk to me or Teenie ❤️! Some fun facts about me are that I have 2 dogs and a fishy.</p>                    
                 </div>
