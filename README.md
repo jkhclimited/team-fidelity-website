@@ -1,6 +1,6 @@
 # Team Fidelity Esports Website
 
-Here's the link, first of all: [Link to Website](https://team-fid-website.herokuapp.com/)
+Here's the link: [Link to Website](https://team-fid-website.herokuapp.com/)
 
 Currently, there are four webpages planned for this website, created with simple React as there is currently no need for any input fields or server or APIs. More webpages may be added at a later time as deemed necessary by the management team. All pages are intended to be mobile friendly.
 
