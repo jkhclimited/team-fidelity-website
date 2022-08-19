@@ -14,7 +14,7 @@
 
 .majorsRoster, .academyRoster {
     margin: 0 auto;
-    width: 350px;
+    width: 375px;
 }
 
 .majorsRole, .academyRole {
@@ -30,7 +30,7 @@
 
 @media (min-width: 1024px) {
     .competitiveExplanation, .competitiveInterest {
-        width: 1024px;
+        width: 995px;
         margin: 0 auto;
     }
 }
